@@ -1,20 +1,21 @@
 package pers.lyz.leetCode.number_1;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Solution {
     public static int[] twoSum(int[] nums, int target){
-        int keys_1 = -1;
-        int keys_2 = -1;
-        outterloop:
-        for(int i = 0; i< nums.length;i++){
-            keys_1 = i;
-            for(int j = i+1; j< nums.length; j++){
-                if (nums[i]+nums[j]==target) {
-                    keys_2 = j;
-                    break outterloop;
-                }
+        Map<Integer, Integer> map = new HashMap<>();
+        for(int i =0; i <nums.length;i++){
+            map.put(nums[i], i);
+        }
+        for(int i=0; i< nums.length; i++){
+            int complement = target - nums[i];
+            if(map.containsKey(complement) && map.get(complement) != i){
+                return new int[]{i, map.get(complement)};
             }
         }
-        return new int[]{keys_1, keys_2};
+        throw new IllegalArgumentException("No two sum solution!");
     }
     public static void main(String[] args){
         int[] nums = {3, 4, 5, 6, 7};
