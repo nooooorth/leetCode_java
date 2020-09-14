@@ -1,4 +1,4 @@
-package per.lyz.leetCode.number_2;
+package pers.lyz.leetCode.number_2;
 
 public class Solution {
     public static void main(String[] args){
