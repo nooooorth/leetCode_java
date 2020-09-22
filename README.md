@@ -8,4 +8,5 @@ Content:
 [6:有效的括号](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_6)  
 [7:合并两个有序链表](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_7)  
 [8:删除排序数组中的重复项](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_8)  
+[9:移除相同的元素(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_9)  
 <p>说明：按照本人做题顺序，非严格按照LeetCode题目顺序</p>
