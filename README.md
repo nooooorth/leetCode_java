@@ -11,4 +11,7 @@ Content:
 [9:移除相同的元素(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_9)  
 [10:实现strStr()(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_10)  
 [11:搜索插入位置](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_11)  
+[12:外观数列(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_12)  
+[13:最大子序和(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_13)  
+
 <p>说明：按照本人做题顺序，非严格按照LeetCode题目顺序</p>
