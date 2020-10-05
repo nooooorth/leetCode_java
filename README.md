@@ -15,5 +15,10 @@ Content:
 [13:最大子序和(!)](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_13)  
 [14:最后一个单词长度](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_14)  
 [15:加1](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_15)    
+[16:二进制求和](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_16)    
+[17:x的平方根](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_17)    
+[18:爬楼梯](https://github.com/wjy1478/leetCode_java/tree/master/main/src/pers/lyz/leetCode/number_18)    
+
+
 
 <p>说明：按照本人做题顺序，非严格按照LeetCode题目顺序</p>
